@@ -1,0 +1,11 @@
+{
+    "hostname": "localhost",
+    "username": "",
+    "pathToPrivateKey": ",
+    "delay": 120,
+    "logLevelConsole":"logging.DEBUG",
+    "logLevelFile": "logging.INFO",
+    "logFormat": "%(asctime)s - %(levelname)s - %(message)s",
+    "dateFormat": "%Y-%m-%d %H:%M:%S",
+    "doorStatusUrl": ""
+}
